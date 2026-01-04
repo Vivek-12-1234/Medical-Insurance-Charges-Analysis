@@ -44,7 +44,7 @@ The complete analysis report exported from Google Colab is available here:
 ## Project Results
 
 📄 **Full Project Report (PDF)**  
-[View Project Report]([https://github.com/Vivek-12-1234/Medical-Insurance-Charges-Analysis/blob/main/results/insurance_analysis_report.pdf](https://github.com/Vivek-12-1234/Medical-Insurance-Charges-Analysis/tree/9c2a02e7ac29b5facfedda13cbe9552f51dacc59/results])
+[View Project Report](https://github.com/Vivek-12-1234/Medical-Insurance-Charges-Analysis/tree/9c2a02e7ac29b5facfedda13cbe9552f51dacc59/results)
 
 **Interactive Notebook (Google Colab):**  
 [Open in Google Colab](https://colab.research.google.com/drive/16aY2t8agvFZyfdsQVgNCFBQSykoI6BwH)
